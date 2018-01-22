@@ -18,7 +18,7 @@
 // scalastyle:off println
 package org.apache.spark.examples
 
-import org.apache.spark.sql.SparkSession
+import org.apache.spark.sql._
 
 /**
  * Usage: BroadcastTest [partitions] [numElem] [blockSize]
